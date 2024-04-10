@@ -8,7 +8,7 @@
 
 本比赛赛方提供3D 连续学习数据集生成器，仓库连接为：[https://github.com/HIT-leaderone/3D-FSCIL-dataloader](https://github.com/HIT-leaderone/3D-FSCIL-dataloader)
 
-请先再在**'./data/ShapeNet55'**下载上文提到的ShapeNet55数据集，并在**'/data/ShapeNet55'**下载上文提到的CO3D数据集以完成数据准备工作。
+请先再在**'./data/ShapeNet55'** 下载上文提到的ShapeNet55数据集，并在 **'/data/ShapeNet55'**下载上文提到的CO3D数据集以完成数据准备工作。
 
 之后选手可以调用 session_settings.py 中的 shapenet2co3d() 函数来获得初赛连续学习数据集。
 
